@@ -1,0 +1,24 @@
+{
+  "name": "paint-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajpsyk/paint-app.git"
+  },
+  "author": "Anthony Psyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajpsyk/paint-app/issues"
+  },
+  "homepage": "https://github.com/ajpsyk/paint-app#readme",
+  "dependencies": {
+    "randomcolor": "^0.6.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
